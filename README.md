@@ -7,4 +7,6 @@ It works.. somewhat. Connect a CDMA phone with drivers installed and you can per
 I got some insight from libqcdm from ModemManager, cdmaworkshoptool AKA CDMADevTerm, as well as some chinese sources on the web and that got me started on this now abandoned project.
 
 https://github.com/openshine/ModemManager/tree/master/libqcdm
+
+
 http://code.google.com/p/cdmaworkshoptool/
